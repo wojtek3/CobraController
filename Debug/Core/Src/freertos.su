@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:156:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:217:6:StartIMUTask	16	static
+../Core/Src/freertos.c:252:6:StartBaroTask	16	static
+../Core/Src/freertos.c:272:6:StartKalmanTask	32	static
+../Core/Src/freertos.c:299:6:StartCSRFTask	16	static
+../Core/Src/freertos.c:318:6:StartTelemetryTask	16	static
+../Core/Src/freertos.c:340:6:StartServoTask	24	static
+../Core/Src/freertos.c:362:6:StartStatusLedTask	16	static

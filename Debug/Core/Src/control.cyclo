@@ -1,0 +1,6 @@
+../Core/Src/control.c:47:24:clipToPulse	3
+../Core/Src/control.c:54:14:expoCurve	1
+../Core/Src/control.c:60:14:pwmToSignedNorm	2
+../Core/Src/control.c:69:6:mapRcToSetpoints	5
+../Core/Src/control.c:104:6:controlInit	1
+../Core/Src/control.c:115:6:controlLoop	6

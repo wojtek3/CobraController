@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:156:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:217:6:StartIMUTask	2
+../Core/Src/freertos.c:252:6:StartBaroTask	1
+../Core/Src/freertos.c:272:6:StartKalmanTask	3
+../Core/Src/freertos.c:299:6:StartCSRFTask	1
+../Core/Src/freertos.c:318:6:StartTelemetryTask	2
+../Core/Src/freertos.c:340:6:StartServoTask	1
+../Core/Src/freertos.c:362:6:StartStatusLedTask	1

@@ -1,0 +1,14 @@
+../Core/Src/icm42688.c:8:13:ICM42688_Select	16	static
+../Core/Src/icm42688.c:13:13:ICM42688_Deselect	16	static
+../Core/Src/icm42688.c:25:26:ICM42688_WriteReg	24	static
+../Core/Src/icm42688.c:48:26:ICM42688_ReadReg	32	static
+../Core/Src/icm42688.c:79:26:ICM42688_ReadRegs	32	static
+../Core/Src/icm42688.c:108:26:ICM42688_RMW	24	static
+../Core/Src/icm42688.c:128:19:ICM42688_Init	24	static
+../Core/Src/icm42688.c:185:19:ICM42688_WhoAmI	16	static
+../Core/Src/icm42688.c:190:19:ICM42688_GetSensorData	32	static
+../Core/Src/icm42688.c:219:19:ICM42688_SetAccelConfig	24	static
+../Core/Src/icm42688.c:233:19:ICM42688_SetGyroConfig	24	static
+../Core/Src/icm42688.c:248:19:ICM42688_SetAccelFilter	16	static
+../Core/Src/icm42688.c:264:19:ICM42688_SetGyroFilter	16	static
+../Core/Src/icm42688.c:274:6:calcRads_g	32	static

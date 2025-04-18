@@ -1,0 +1,6 @@
+../Core/Src/ahrs.c:28:14:invSqrtf	16	static
+../Core/Src/ahrs.c:35:13:buildRotationMatrix	56	static
+../Core/Src/ahrs.c:63:13:computeEulerAngles	40	static
+../Core/Src/ahrs.c:99:13:updateDynamicKp	48	static
+../Core/Src/ahrs.c:128:6:ahrsInit	24	static
+../Core/Src/ahrs.c:163:6:ahrsUpdate	120	static

@@ -1,0 +1,6 @@
+../Core/Src/ahrs.c:28:14:invSqrtf	1
+../Core/Src/ahrs.c:35:13:buildRotationMatrix	1
+../Core/Src/ahrs.c:63:13:computeEulerAngles	3
+../Core/Src/ahrs.c:99:13:updateDynamicKp	6
+../Core/Src/ahrs.c:128:6:ahrsInit	4
+../Core/Src/ahrs.c:163:6:ahrsUpdate	10

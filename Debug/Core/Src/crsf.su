@@ -1,0 +1,4 @@
+../Core/Src/crsf.c:11:9:crsf_crc8	24	static
+../Core/Src/crsf.c:25:19:CRSF_SendBatteryData	32	static
+../Core/Src/crsf.c:58:24:scale_channel	16	static
+../Core/Src/crsf.c:63:6:processCRSFframe	40	static

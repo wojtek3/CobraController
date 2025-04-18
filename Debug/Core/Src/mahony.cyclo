@@ -1,0 +1,5 @@
+../Core/Src/mahony.c:41:6:MahonyAHRS_Init	1
+../Core/Src/mahony.c:59:6:MahonyAHRS_SetGains	1
+../Core/Src/mahony.c:65:6:MahonyAHRS_Update	6
+../Core/Src/mahony.c:152:6:MahonyAHRS_GetQuaternion	2
+../Core/Src/mahony.c:161:6:MahonyAHRS_GetEuler	4

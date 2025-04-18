@@ -1,0 +1,6 @@
+../Core/Src/control.c:47:24:clipToPulse	16	static
+../Core/Src/control.c:54:14:expoCurve	16	static
+../Core/Src/control.c:60:14:pwmToSignedNorm	24	static
+../Core/Src/control.c:69:6:mapRcToSetpoints	40	static
+../Core/Src/control.c:104:6:controlInit	8	static
+../Core/Src/control.c:115:6:controlLoop	56	static

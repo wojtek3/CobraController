@@ -1,0 +1,10 @@
+../Core/Src/dps310.c:16:19:DPS310_Init	40	static
+../Core/Src/dps310.c:55:19:DPS310_SoftReset	40	static
+../Core/Src/dps310.c:60:19:DPS310_SetMode	40	static
+../Core/Src/dps310.c:73:19:DPS310_ReadTempAndPressure	24	static
+../Core/Src/dps310.c:86:7:DPS310_GetTemperature	16	static
+../Core/Src/dps310.c:90:7:DPS310_GetPressure	16	static
+../Core/Src/dps310.c:94:26:dps310_read_coeffs	56	static
+../Core/Src/dps310.c:122:16:dps310_get_raw	40	static
+../Core/Src/dps310.c:134:14:dps310_compensate_temperature	24	static
+../Core/Src/dps310.c:139:14:dps310_compensate_pressure	40	static

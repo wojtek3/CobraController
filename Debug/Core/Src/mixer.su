@@ -1,0 +1,3 @@
+../Core/Src/mixer.c:59:6:mixerInit	8	static
+../Core/Src/mixer.c:64:6:selectMixerMode	16	static
+../Core/Src/mixer.c:73:6:MixerUpdate	32	static

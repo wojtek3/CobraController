@@ -1,0 +1,3 @@
+../Core/Src/kalman.c:9:6:updateIMU	2
+../Core/Src/kalman.c:32:6:Kalman_Init	1
+../Core/Src/kalman.c:44:7:Kalman_GetAngle	1
